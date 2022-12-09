@@ -17,7 +17,7 @@ Airports can be ignored by means of deactivation through a web panel.
 - clone the repository and run the container
 
 ```bash
-git clone ##INSERIR ENDEREÇO DO REPOSITORIO GITHUB
+git clone https://github.com/renantorres07/passagenspromo.git
 ```
 
 - run the command;
