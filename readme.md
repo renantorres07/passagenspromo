@@ -44,7 +44,7 @@ docker-compose up;
 http://127.0.0.1:8000/api/toogleactive/AJU
 ```
 
-![Untitled](Techinical%20Test%20Amopromo%20c48b49ddbcfd44f68c645d9cd4529d7d/Untitled.png)
+![Untitled](readmeimages/Untitled.png)
 
 - Inactivate and Active Airport, the reason should be passed as a URL Param.
 
@@ -52,7 +52,7 @@ http://127.0.0.1:8000/api/toogleactive/AJU
 http://127.0.0.1:8000/api/toogleinactive/AJU?reason=Aeroporto+Fechado
 ```
 
-![Untitled](Techinical%20Test%20Amopromo%20c48b49ddbcfd44f68c645d9cd4529d7d/Untitled%201.png)
+![Untitled](readmeimages/Untitled%201.png)
 
 - Search Flights, ##COLOCAR O QUE  É CADA PARAMETRO DA URL (AEROPORTO DE SAIDA, CHEGADA, DATA, ETC)
 
@@ -60,4 +60,4 @@ http://127.0.0.1:8000/api/toogleinactive/AJU?reason=Aeroporto+Fechado
 http://127.0.0.1:8000/api/search/MAO/POA/2023-06-15/2023-06-20
 ```
 
-![Untitled](Techinical%20Test%20Amopromo%20c48b49ddbcfd44f68c645d9cd4529d7d/Untitled%202.png)
+![Untitled](readmeimages/Untitled%202.png)
