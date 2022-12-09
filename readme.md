@@ -33,7 +33,7 @@ docker-compose up;
 .
 
 <aside>
-💡 For all endpoints a Token should be passed along the request, inside the header, with the key "token”, the token is '#INSERIR TOKEN’
+💡 For all endpoints a Token should be passed along the request, inside the header, with the key "token”, the token is '3y4WXfiBN8pRaXvaVe8jzyNCCXnnSu9gmaUFvJMaJxXvesUtwEuaP98A8PZSzwCW9TiQhFUtByMaXHVt8yYU7inzhTfmfYRTR3umyiBeHu9ktDJGcyhyTJzhsSfgmJSR’
 #OBS - CRIAR ENDPOINT PARA RETORNAR O TOKEN
 
 </aside>
