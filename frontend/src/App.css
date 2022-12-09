@@ -1,0 +1,9 @@
+.App {
+  background-color: white;
+}
+
+.Table-container{
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
